@@ -1,6 +1,6 @@
 <h1 align="center"> Modularización </h1>
 
-Tengan presente que el 90% de lo que vamos a ver en este capítulo, es **Vanilla JavaScript**. Es decir, estamos realmente _repasando el lenguaje base_, con el plus de que le añadimos algunas de las características de **TypeScript** :fire:.
+Tengan presente que el 90% de lo que vamos a ver en este capítulo, es **Vanilla JavaScript**. Es decir, estamos realmente _repasando el lenguaje base_, con el plus de que le añadimos algunas de las características de :fire: **TypeScript** .
 
 ---
 
@@ -56,3 +56,5 @@ De forma simple y resumida, veamos las distintas formas de importar y exportar m
 - [Divide et Impera](https://anveger.wordpress.com/2015/07/11/divide-et-impera/)
 
 - [ECMAScript Modules en TS](https://www.typescriptlang.org/docs/handbook/modules.html)
+
+- [¿Qué es "use strict"?](https://www.youtube.com/watch?v=7e6ssF78Af4)
